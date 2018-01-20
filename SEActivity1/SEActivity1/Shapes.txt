@@ -1,0 +1,3 @@
+﻿square 7
+circle 6
+rectangle 3 4
